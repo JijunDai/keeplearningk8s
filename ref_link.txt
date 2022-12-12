@@ -1,1 +1,1 @@
-git@github.com:JijunDai/keeplearningk8s.git
+https://github.com/justmeandopensource/kubernetes.git
