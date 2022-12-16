@@ -1,1 +1,5 @@
 .idea/
+localtest/
+/kubernetes/
+/rook/
+/istio-1.16.1/
